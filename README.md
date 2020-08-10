@@ -11,7 +11,10 @@ Future plans:
 - analysis of the business impact of these cold starts
 - further analysis, comparing the business impact of cold starts to the cost of keeping a lambda warm,
 and potentially comparing this to the cost of conversion to an EC2
-- using this data to provide recommendations on which lambdas should be kept warm, and which are okay to let cool 
+- using this data to provide recommendations on which lambdas should be kept warm, and which are okay to let cool
+
+## Diagrams
+![simple diagram](https://app.lucidchart.com/publicSegments/view/7e91e25b-651a-4f6f-b6ea-f13a8e689643/image.png)
 
 ## Getting started
 [Build applications on New Relic One](https://docs.newrelic.com/docs/new-relic-one/use-new-relic-one/build-new-relic-one)
