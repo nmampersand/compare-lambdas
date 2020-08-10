@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "compare-lambdas-launcher",
+    "displayName": "Compare Lambdas",
+    "description": "Various visualizations to compare lambdas",
+    "rootNerdletId": "lambda-cold-starts-nerdlet"
+}

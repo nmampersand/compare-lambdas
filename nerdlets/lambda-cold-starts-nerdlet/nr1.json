@@ -1,0 +1,6 @@
+{
+    "schemaType": "NERDLET",
+    "id": "lambda-cold-starts-nerdlet",
+    "displayName": "Compare Lambda Cold Starts",
+    "description": "Charts to visualize the percentage of a lambdas invocations with a cold start"
+}
